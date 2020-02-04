@@ -1,0 +1,9 @@
+[submodule "sbml-level-3-paper-overleaf"]
+	path = sbml-level-3-paper-overleaf
+	url = git@github.com:sbmlteam/sbml-level-3-paper-overleaf.git
+[submodule "sbml-level-3-paper-response-letter"]
+	path = sbml-level-3-paper-response-letter
+	url = git@github.com:sbmlteam/sbml-level-3-paper-response-letter.git
+[submodule "sbml-level-3-paper-diff"]
+	path = sbml-level-3-paper-diff
+	url = git@github.com:sbmlteam/sbml-level-3-paper-diff.git
