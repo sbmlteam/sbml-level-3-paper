@@ -1,0 +1,43 @@
+# -*- mode: gitignore; visual-wrap-column: 80; -*-
+
+# Mac-specific things to ignore:
+# .............................................................................
+
+.DS_Store
+
+# Emacs-specific things to ignore:
+# .............................................................................
+
+*~
+.#*
+.git/COMMIT_EDITMSG
+auto
+*.synctex.gz
+
+# LaTeX-specific things to ignore:
+# .............................................................................
+
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.loc
+*.mp
+texput.log
+
+# Things specific to this directory.
+# .............................................................................
+
+diff.tex
+diff.pdf
+
+# The following must be created by symlinks by the user, so we ignore them
+# in git.
+
+literature.bib
+packages-table.tex
+resources
+sbml-msb.bst
+main-diff.*
