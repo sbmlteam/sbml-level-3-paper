@@ -10,6 +10,7 @@ Table of contents
 * [Introduction](#introduction)
 * [Installation](#installation)
 * [Getting help](#getting-help)
+* [License](#license)
 * [Acknowledgments](#authors-and-acknowledgments)
 
 
@@ -31,6 +32,14 @@ Getting help
 ------------
 
 If you find an issue, please submit it in [the GitHub issue tracker](https://github.com/sbmlteam/sbml-level-3-paper/issues) for this repository.  Alternatively, you are welcome to contact the author or the SBML Team [via email](mailto:sbml-team@googlegroups.com) with questions about these models.
+
+
+License
+-------
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img align="right" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+The [LaTeX](https://www.latex-project.org) code and associated support files in this repository are freely available under the [Creative Commons Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), the same terms as for papers published in Molecular Systems Biology.  A copy of the license is available in the file named [LICENSE](LICENSE).
 
 
 Acknowledgments
