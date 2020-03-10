@@ -31,7 +31,7 @@ Installation
 Getting help
 ------------
 
-If you find an issue, please submit it in [the GitHub issue tracker](https://github.com/sbmlteam/sbml-level-3-paper/issues) for this repository.  Alternatively, you are welcome to contact the author or the SBML Team [via email](mailto:sbml-team@googlegroups.com) with questions about these models.
+If you find an issue, please submit it in [the GitHub issue tracker](https://github.com/sbmlteam/sbml-level-3-paper/issues) for this repository.  Alternatively, you are welcome to contact the author or the SBML Team [via email](mailto:sbml-team@googlegroups.com) with questions about this repository.
 
 
 License
